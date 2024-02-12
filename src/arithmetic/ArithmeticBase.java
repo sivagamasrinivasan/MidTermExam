@@ -10,7 +10,7 @@ import java.util.Scanner;
 /** This class takes String input plus,minus,divide and times
  * from user and execute the arithmetic operation
  * change the code to use enum instead String and mention the advantage of enum.
- * @author sivagamasrinivasan
+ * @author sivagamasrinivasan Winter 24
  * 
  */
 public class ArithmeticBase 
