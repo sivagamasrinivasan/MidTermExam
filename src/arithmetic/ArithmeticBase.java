@@ -32,7 +32,7 @@ public class ArithmeticBase
             case "DIVIDE":
                 return x / y;
             default:
-                throw new AssertionError("Unknown operations " + this);
+                throw new AssertionError("Unknown operations : " + this);
         }
     }
    
